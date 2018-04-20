@@ -1,10 +1,13 @@
 # Udacity_Tableau_Project
 
 Udacity data analyst nanodegree - data visualization project This is my first experience with Tableau. It's an great way to create professional data visualizations.
+
 Tableau Initial Link 
 https://public.tableau.com/profile/aakash.behl#!/vizhome/UdacityProject-WorldPopulationvsFertilityRate/Story1?publish=yes
+
 Tableau Final Link 
 https://public.tableau.com/profile/aakash.behl#!/vizhome/UdacityProject-WorldPopulationvsFertilityRate_2/Story1
+
 Summary
 How the population of the World is developing over the past 50 years. People believe that making everyone healthy and living longer will lead to overpopulation. I tried to answer this question in this project by comparing increasing life expectancy with fertility rate globally and how they relate to population growth.
 Design
